@@ -10,6 +10,7 @@ Project Details: URL Shortener
 
 File Structure :
 url_shortener/
+
 ├── app.py           # Main Flask application file
 
 ├── templates/
